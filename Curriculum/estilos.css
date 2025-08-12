@@ -1,0 +1,33 @@
+
+
+h1{
+    color: blue;
+    border: dotted;
+
+}
+body{
+    background-color: lightgrey;
+}
+#Nombrecompleto {
+    color:blue;
+
+}
+img {
+    border-radius: 50px;
+    
+    width: 50%;
+    height: 50%;
+}
+.contenedor {
+
+    
+    text-align: center;
+}
+
+#Datospersonales {
+    color:blueviolet
+}
+#fotopersonal {
+    background-image: url('');
+
+}

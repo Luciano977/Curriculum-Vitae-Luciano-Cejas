@@ -1,0 +1,5 @@
+n= input("Ingrese un numero entero: ")
+m= input("Ingrese otro numero entero: ")
+c= str(int(n)//int(m))
+r= str(int(n)%int(m))
+print("el numero " + n + " entre " + m + " da un cosiente "+ c + " y un resto " + r)

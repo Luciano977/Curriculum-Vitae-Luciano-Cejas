@@ -1,0 +1,16 @@
+
+#titulo {
+    color: rgb(163, 126, 25);
+}
+
+.post {
+    color:blue
+}
+
+div {
+    color:aquamarine
+}
+
+* {
+    font-size: 24px;
+}
