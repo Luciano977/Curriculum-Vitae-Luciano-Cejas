@@ -1,33 +1,44 @@
 
-
 h1{
     color: blue;
     border: dotted;
-
-}
-body{
-    background-color: lightgrey;
-}
-#Nombrecompleto {
-    color:blue;
-
-}
-img {
-    border-radius: 50px;
-    
-    width: 50%;
-    height: 50%;
-}
-.contenedor {
-
-    
     text-align: center;
+    background-color: black;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
 }
 
-#Datospersonales {
-    color:blueviolet
+h2 {
+    
+    font-size: 28px;
+    color: blue;
+    text-align: center;
+    border: double;
+    background-color:rgb(199, 203, 205);
+}
+
+body{
+    background-color: rgb(169, 173, 227);
+}
+
+img {
+    width: 200px;
+    height: 240px;
+    border-radius: 70px;
+    border: solid ;
+}
+a {
+    font-size: 24px;
+    color: black;
+} 
+pre{
+    font-size: 20px;
+    font-style: oblique;
+
 }
 #fotopersonal {
-    background-image: url('');
-
+    text-align: center;
 }
